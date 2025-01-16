@@ -1,0 +1,13 @@
+Unicode 
+Psuedocode Steps configurations 
+
+algorithms 
+Actions 
+Conditionals 
+Boolean Expressions ( Question Marks ) Yes or No ---- 1 Or 0 ----- True or false 
+Loops
+
+Code first website 
+30% head 40% body 30%Footer
+
+40% HTML 35%CSS 25% JavaScripts

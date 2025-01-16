@@ -1,0 +1,10 @@
+(  main opened 
+h1 
+h2 
+comment (!-- TODO:  body --> )
+p
+main closed )
+
+this is called Nesting
+
+img element should've src attribute and alt attribute 
